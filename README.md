@@ -95,6 +95,12 @@ appreciate **helpful** suggestions about how to improve :)
 RStudio
 -------
 
+If you are going to be using R for anything much, I recommend installing
+[RStudio](http://www.rstudio.com/). It's an open source tool that provides a
+nice interface into R. However, the script and all of the commands in it will 
+run just fine if you are using the command line version of R, which may already
+be installed with your OS, or you can download a more [current version](http://www.r-project.org/)
+
 See r-files directory for plot_network.r script, which has all of the
 r commands required to create the network from a file, plot it, 
 and export it into a better format for Visone.
