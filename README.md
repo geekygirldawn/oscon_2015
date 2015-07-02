@@ -81,6 +81,8 @@ What oscon.py does:
 
 * Gathers information about where to put output files and the database being used.
 * Runs the query.
+* Strips the email down to the username (everything before @example.com) to have a 
+shorter identifier for the users (looks much better on graphs).
 * Formats the output into a nice, clean CSV file called network_output.csv excluding
 new threads and self-replies.
 * Formats the output into a nice Gource custom log format sorted by time
