@@ -18,7 +18,9 @@ Data Gathering
 --------------
 
 If you are gathing data from open source communities, your best friend is
-the [MetricsGrimoire](https://github.com/MetricsGrimoire) suite of tools.
+the [MetricsGrimoire](https://github.com/MetricsGrimoire) suite of tools,
+especially [mlstats](https://github.com/MetricsGrimoire/MailingListStats) for mailing lists
+and [CVSAnaly](https://github.com/MetricsGrimoire/CVSAnalY) for code repos.
 
 **Step 1: Get your mailing list data into a database using mlstats.**
 
@@ -72,6 +74,7 @@ but you would need to re-format it into a pipe-separated file that Gource can re
 **Step 2(alternative): Use a Python script to easily run the database query and re-format the data a bit.**
 
 Run oscon.py:
+
     $ oscon.py -o <outputfiledir> -d <database> -u <user-mysql> -p <password-mysql>
 
 What oscon.py does:
@@ -177,7 +180,7 @@ Gource
 Using the Gource [custom log format](https://code.google.com/p/gource/wiki/CustomLogFormat)
 option.
 
-gource --highlight-users data/gource_output.log
+    $ gource --highlight-users data/gource_output.log
 
 More info about [Gource](https://github.com/acaudwell/Gource).
 
@@ -186,7 +189,7 @@ License and Copyright
 
 Code is licensed under [GNU General Public License (GPL), version 3 or later](http://www.gnu.org/licenses/gpl.txt).
 
-Other content, including the tutorial below in this README is licensed under a 
+Other content, including the tutorial materials in this README and data files are licensed under a 
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 Copyright (C) 2015 Dawn M. Foster
