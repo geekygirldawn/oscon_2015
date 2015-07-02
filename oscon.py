@@ -5,10 +5,7 @@
 # Licensed under GNU General Public License (GPL), version 3 or later: http://www.gnu.org/licenses/gpl.txt
 
 import fileinput        # used for file operations
-import re               # used to match regex
-import shutil           # used to copy a file.
 import os		# used to merge dir and filename
-import os.path          # used to see if a file exists
 import sys, getopt      # used to read options 
 import MySQLdb		# for mysql
 
