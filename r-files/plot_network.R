@@ -43,7 +43,7 @@ tkplot(mailing_list.graphw, vertex.label.color="black", edge.color="darkslategra
 
 # export a format of the data with weights that can be imported into other visualization sw
 
-write.graph(mailing_list.graphw, "~/gitrepos/oscon_2015/r_files/network.dot", format=c("dot"))
+write.graph(mailing_list.graphw, "/tmp/network.dot", format=c("dot"))
 
 # STOP here. The stuff below is just bonus material for those who want a couple other alternatives.
 ###################
