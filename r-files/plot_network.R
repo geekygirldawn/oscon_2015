@@ -15,7 +15,7 @@ mailing_list<-read.table("~/gitrepos/oscon_2015/data/network_output.csv", sep=',
 
 mailing_list
 
-# Format for use with iGraph: save it as a matrix and then an edgelist with directed
+# Format for use: save it as a matrix and then an edgelist with directed
 # ties between people (person a sends an email to person b has a direction).
 
 mailing_list.mat <- as.matrix(mailing_list)
