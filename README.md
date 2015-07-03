@@ -1,7 +1,7 @@
 # Network analysis: People and open source communities
 
 * By Dawn M. Foster
-* For OSCON 2015
+* For OSCON 2015 - [Session link](http://www.oscon.com/open-source-2015/public/schedule/detail/41617)
 * When: 10:40am–11:20am Thursday, 07/23/2015
 * Room: F 147/148
 * Tags: Linux, Tools and techniques
