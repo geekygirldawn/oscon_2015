@@ -194,6 +194,24 @@ option.
 
 More info about [Gource](https://github.com/acaudwell/Gource).
 
+Data and Examples
+-----------------
+
+The data used in the examples comes from the Linux kernel 
+[IOMMU list](http://lists.linuxfoundation.org/pipermail/iommu/) for January 2015.
+[IOMMU](https://en.wikipedia.org/wiki/IOMMU)(Input/Output Memory Management Unit) is used in 
+the Linux kernel to map the virtual memory accessible by devices to physical memory for security
+and other reasons. I selected this list for a few reasons:
+
+* I'm studying the Linux kernel community at the University of Greenwich, so I wanted to pick something 
+from the Linux kernel, but there are [over 150 mailing lists](http://vger.kernel.org/vger-lists.html)
+documented for the Linux kernel (and not all of them are listed at that link).  
+* The IOMMU list is lower volume than many of the kernel lists (651 posts for January), so it's more
+manageable as an example.
+* It is a mailman list, which has nicely formatted, clean logs that import well using mlstats.
+Many of the kernel lists have other ways of logging (Gmane, etc.) that aren't quite as clean
+when imported. 
+
 License and Copyright
 ---------------------
 
