@@ -41,6 +41,8 @@ has been around and the number of messages.
 
 **Step 2: Run database queries to extract your data**
 
+This is the "do it yourself" method and requires a bit manual / scripting work on your part. See Step 2 (alternative) below for a Python script that does this for you.
+
 A good list of starter queries can be found on the 
 [mlstats wiki](https://github.com/MetricsGrimoire/MailingListStats/wiki/Queries) and
 you'll want to look at the [database schema](https://github.com/MetricsGrimoire/MailingListStats/wiki/Database-Schema) as well
@@ -71,7 +73,7 @@ but you would need to re-format it into a pipe-separated file that Gource can re
     messages m WHERE YEAR(m.first_date)=2015 AND MONTH(m.first_date)=1 AND 
     mp.message_id=m.message_id; 
 
-**Step 2(alternative): Use a Python script to easily run the database query and re-format the data a bit.**
+**Step 2 (alternative): Use a Python script to easily run the database query and re-format the data a bit.**
 
 Run oscon.py:
 
