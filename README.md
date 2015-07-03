@@ -118,6 +118,14 @@ be used with Visone below.
 Visone
 ------
 
+The instructions for this section are quite long. Since it's a GUI-based application,
+there are no script files, just a long list of things to click on to get the desired results.
+
+[Visone](http://visone.info/) is a free app (sadly not open source) that can be 
+[downloaded](http://visone.info/html/download.html) and runs as a Java app. There are some
+other open source tools, including the above R example, for this type of visualization, 
+but I haven't found one that works quite as well as Visone and runs across all major OSs.
+
 **Open network file: r-files/network.dot**
 
 * files of type: DOT files
