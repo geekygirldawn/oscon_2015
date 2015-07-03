@@ -14,6 +14,9 @@ technical materials that you can use to reproduce what I did in the session.
 If I do this well, you'll be able to use these tools to gather data and 
 perform similar analysis using your own community data. 
 
+This README file is where you can find most of the instructions for replicating the
+data and analysis from the presentation along with some extra material.
+
 Data Gathering
 --------------
 
