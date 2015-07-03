@@ -101,16 +101,17 @@ If you are going to be using R for anything much, I recommend installing
 [RStudio](http://www.rstudio.com/). It's an open source tool that provides a
 nice interface into R. However, the script and all of the commands in it will 
 run just fine if you are using the command line version of R, which may already
-be installed with your OS, or you can download a more [current version](http://www.r-project.org/)
+be installed with your OS, or you can download a more [current version](http://www.r-project.org/).
 
-See r-files directory for plot_network.r script, which has all of the
+See the [r-files directory](https://github.com/geekygirldawn/oscon_2015/tree/master/r-files)
+for plot_network.r script, which has all of the
 r commands required to create the network from a file, plot it, 
 and export it into a better format for Visone.
 
 The comments in the script file should do a fair job of explaining what
 the code does and why.
 
-The purpose of this section is to show you what RStudio / r can do for basic
+The purpose of this section is to show you what RStudio / R can do for basic
 graph generation, and generate a file with additional network data that can
 be used with Visone below.
 
@@ -199,7 +200,7 @@ Data and Examples
 
 The data used in the examples comes from the Linux kernel 
 [IOMMU list](http://lists.linuxfoundation.org/pipermail/iommu/) for January 2015.
-[IOMMU](https://en.wikipedia.org/wiki/IOMMU)(Input/Output Memory Management Unit) is used in 
+[IOMMU](https://en.wikipedia.org/wiki/IOMMU) (Input/Output Memory Management Unit) is used in 
 the Linux kernel to map the virtual memory accessible by devices to physical memory for security
 and other reasons. I selected this list for a few reasons:
 
