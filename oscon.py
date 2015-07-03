@@ -10,9 +10,15 @@ import sys, getopt      # used to read options
 import MySQLdb		# for mysql
 
 def usage():
+    print ""
     print "oscon.py"
     print "Copyright (C) 2015 Dawn M. Foster"
-    print "Licensed under GNU General Public License (GPL), version 3 or later: http://www.gnu.org/licenses/gpl.txt"
+    print "Licensed under GNU General Public License (GPL), version 3 or later:"
+    print "http://www.gnu.org/licenses/gpl.txt"
+    print ""
+    print "Assumes you are using a MySQL database on localhost."
+    print "The month and year are hardcoded into the query for this OSCON example to make data manageable,"
+    print "but you can remove that part of the query if you want to use it for all data."
     print """
 -h, --help
 -o, --outputfiledir   OUTFILEDIR: Set the directory for the output files where
