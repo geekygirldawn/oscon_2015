@@ -196,6 +196,13 @@ replies and dark lines = more replies.
 * maximum: click, click scheme, click sequential, select a slightly lighter shade
 * click visualize
 
+**Export image**
+
+* File -> export
+* Select an option (PNG, PDF, SVG, and many more)
+* Click save
+* The next pop-up, you can take the defaults (complete graph, original size) or customize the size.
+
 Gource
 -------
 
