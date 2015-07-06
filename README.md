@@ -206,12 +206,23 @@ replies and dark lines = more replies.
 Gource
 -------
 
+More info about [Gource](https://github.com/acaudwell/Gource), 
+including downloads and information about installation.
+
 Using the Gource [custom log format](https://code.google.com/p/gource/wiki/CustomLogFormat)
 option.
 
     $ gource --highlight-users data/gource_output.log
 
-More info about [Gource](https://github.com/acaudwell/Gource).
+
+If you've never run Gource on your code repositories, you should!
+
+    $ gource </path/to/repo> 
+
+I recommend playing around with the different controls to speed things up / slow down or show / hide
+things to get something that looks good with your data. Most of this information can be found
+using gource -H, but the [control page](https://github.com/acaudwell/Gource/wiki/Controls)
+on the wiki has more details about the controls.
 
 Data and Examples
 -----------------
