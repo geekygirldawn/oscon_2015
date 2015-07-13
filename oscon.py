@@ -4,6 +4,10 @@
 # Copyright (C) 2015 Dawn M. Foster
 # Licensed under GNU General Public License (GPL), version 3 or later: http://www.gnu.org/licenses/gpl.txt
 
+# OSCON 2015 Presentation: Portland, OR                  
+# Network analysis: People and open source communities
+# Thursday, July 23, 2015 
+
 import fileinput        # used for file operations
 import os		# used to merge dir and filename
 import sys, getopt      # used to read options 
