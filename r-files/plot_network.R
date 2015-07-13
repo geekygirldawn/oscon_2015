@@ -2,7 +2,12 @@
 # Licensed under GNU General Public License (GPL), version 3 or later: 
 # http://www.gnu.org/licenses/gpl.txt
 
-# Load the ipgraph package - you may need to install it first
+# OSCON 2015 Presentation: Portland, OR				
+# Network analysis: People and open source communities
+# Thursday, July 23, 2015	
+
+# Load the igraph package - you may need to install it first
+# Install using command: install.packages("igraph")
 
 library(igraph)
 
