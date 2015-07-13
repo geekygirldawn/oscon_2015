@@ -115,7 +115,7 @@ The comments in the script file should do a fair job of explaining what
 the code does and why.
 
 The purpose of this section is to show you what RStudio / R can do for basic
-graph generation, and generate a file with additional network data that can
+graph generation and to generate a file with additional network data that can
 be used with Visone below.
 
 Visone
