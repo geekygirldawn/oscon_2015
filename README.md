@@ -225,7 +225,7 @@ I also added a few other options to make it look a bit nicer:
                       which are the people being replied to, but can't seem to find
                       at option for that
 
-    $ gource -i 10 --max-user-speed 100 -a 1 --highlight-users gource_output.log
+    $ gource -i 5 --max-user-speed 100 -a 1 --highlight-users gource_output.log
 
 If you've never run Gource on your code repositories, you should!
 
