@@ -1,4 +1,5 @@
 # OSCON and FLOSS Community Metrics
+## Network Analysis and Community Visualizations
 
 By: [Dawn M. Foster](http://fastwonderblog.com). PhD student at the 
 [University of Greenwich, Centre for Business Network Analysis](http://www2.gre.ac.uk/about/faculty/business/research/centres/cbna/home)
@@ -10,7 +11,7 @@ By: [Dawn M. Foster](http://fastwonderblog.com). PhD student at the
 * Room: F 147/148
 * Tags: Linux, Tools and techniques
 
-### FLOSS Community Metrics: Gource Custom Data
+### FLOSS Community Metrics: Gource Custom Data: Visualizations
 
 * [FLOSS Community Metrics](http://flosscommunitymetrics.org/) - Portland 2015
 * When: 1:40 - 2:00 Sunday, July 18, 2015
