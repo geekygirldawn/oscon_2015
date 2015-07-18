@@ -224,6 +224,8 @@ I also added a few other options to make it look a bit nicer:
                       disappearing. I would have liked to have the same for filenames
                       which are the people being replied to, but can't seem to find
                       at option for that
+* -s 30 : seconds per day. Not used here, but when you run these yourself, you might
+          want to slow things down a bit so you can better see what's going on.
 
     $ gource -i 5 --max-user-speed 100 -a 1 --highlight-users gource_output.log
 
