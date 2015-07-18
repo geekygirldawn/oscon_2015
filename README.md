@@ -1,21 +1,36 @@
-# Network analysis: People and open source communities
+# OSCON and FLOSS Community Metrics
 
-* By Dawn M. Foster
-* For OSCON 2015 - [Session link](http://www.oscon.com/open-source-2015/public/schedule/detail/41617)
-* When: 10:40am–11:20am Thursday, 07/23/2015
+By: [Dawn M. Foster](http://fastwonderblog.com). PhD student at the 
+[University of Greenwich, Centre for Business Network Analysis](http://www2.gre.ac.uk/about/faculty/business/research/centres/cbna/home)
+
+### OSCON: Network analysis: People and open source communities
+
+* OSCON 2015 - [Session link](http://www.oscon.com/open-source-2015/public/schedule/detail/41617)
+* When: 10:40am–11:20am Thursday, July 23, 2015
 * Room: F 147/148
 * Tags: Linux, Tools and techniques
 
+### FLOSS Community Metrics: Gource Custom Data
+
+* [FLOSS Community Metrics](http://flosscommunitymetrics.org/) - Portland 2015
+* When: 1:40 - 2:00 Sunday, July 18, 2015
+* At: Community Leadership Summit
+* Uses: [Data Gathering](https://github.com/geekygirldawn/oscon_2015#data-gathering) and
+[Gource](https://github.com/geekygirldawn/oscon_2015#gource) sections of this README.
+
+Additional Info
+---------------
+
 My slides will be available on [slideshare](http://www.slideshare.net/geekygirldawn)
-shortly after the presentation. 
+shortly after the presentations.
 
 This github repo contains all of the scripts, data, instructions, and other 
-technical materials that you can use to reproduce what I did in the session.
+technical materials that you can use to reproduce what I did in the sessions.
 If I do this well, you'll be able to use these tools to gather data and 
 perform similar analysis using your own community data. 
 
 This README file is where you can find most of the instructions for replicating the
-data and analysis from the presentation along with some extra material.
+data and analysis from the presentations along with some extra material.
 
 Data Gathering
 --------------
