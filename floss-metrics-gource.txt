@@ -6,4 +6,4 @@ gource -a 1 -s .3 ~/gitrepos/cfgmgmtcamp.github.io/
 
 # MAILING LIST example: see README for details.
 
-gource -i 5 --max-user-speed 100 -a 1 --highlight-users - ~/gitrepos/oscon_2015/data/gource_output.log
+gource -i 5 --max-user-speed 100 -a 1 --highlight-users ~/gitrepos/oscon_2015/data/gource_output.log
