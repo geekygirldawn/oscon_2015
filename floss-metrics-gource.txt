@@ -1,0 +1,9 @@
+# CODE example: Show Gource for config management website github repo.
+# -a autoskip to the next entry if nothing happens for 1 second (default 3)
+# -s speed in seconds per day (default 10)
+
+gource -a 1 -s .3 ~/gitrepos/cfgmgmtcamp.github.io/
+
+# MAILING LIST example: see README for details.
+
+gource -i 5 --max-user-speed 100 -a 1 --highlight-users - ~/gitrepos/oscon_2015/data/gource_output.log
