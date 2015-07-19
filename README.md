@@ -254,7 +254,9 @@ If you've never run Gource on your code repositories, you should!
 I recommend playing around with the different controls to speed things up / slow down or show / hide
 things to get something that looks good with your data. Most of this information can be found
 using gource -H, but the [control page](https://github.com/acaudwell/Gource/wiki/Controls)
-on the wiki has more details about the controls.
+on the wiki has more details about the controls. You might also check out these [templates]
+(https://github.com/FOSSRIT/gourciferous/tree/develop/Templates) with recommended configurations
+for different types of data (large projects, long-lived projects, etc.)
 
 You can also check out [Gourciferous](https://github.com/FOSSRIT/gourciferous) for visualizing multiple
 repos in a single visualization using the custom log format.
