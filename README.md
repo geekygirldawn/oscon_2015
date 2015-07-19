@@ -14,6 +14,8 @@ By: [Dawn M. Foster](http://fastwonderblog.com). PhD student at the
 ### FLOSS Community Metrics: Gource Custom Data: Visualizations
 
 * [FLOSS Community Metrics](http://flosscommunitymetrics.org/) - Portland 2015
+* Slides: [Presentation Material](http://www.slideshare.net/geekygirldawn/floss-community-metrics-gource-custom-log-formats)
+is on SlideShare
 * When: 1:40 - 2:00 Sunday, July 18, 2015
 * At: Community Leadership Summit
 * Uses: [Data Gathering](https://github.com/geekygirldawn/oscon_2015#data-gathering) and
