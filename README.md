@@ -254,6 +254,9 @@ things to get something that looks good with your data. Most of this information
 using gource -H, but the [control page](https://github.com/acaudwell/Gource/wiki/Controls)
 on the wiki has more details about the controls.
 
+You can also check out [Gourciferous](https://github.com/FOSSRIT/gourciferous) for visualizing multiple
+repos in a single visualization using the custom log format.
+
 Data and Examples
 -----------------
 
