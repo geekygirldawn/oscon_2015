@@ -8,7 +8,7 @@ By: [Dawn M. Foster](http://fastwonderblog.com). PhD student at the
 
 * OSCON 2015 - [Session link](http://www.oscon.com/open-source-2015/public/schedule/detail/41617)
 * When: 10:40am–11:20am Thursday, July 23, 2015
-* Room: F 147/148
+* Room: E147/148 
 * Tags: Linux, Tools and techniques
 
 ### FLOSS Community Metrics: Gource Custom Data: Visualizations
