@@ -187,7 +187,7 @@ More interactions with other people = bigger nodes.
 * attribute: degree(%)
 * click visualize
 
-**Use weighted data to adjust line size**
+**Use weighted data to adjust line color**
 
 * visualize tab
 * category: mapping
