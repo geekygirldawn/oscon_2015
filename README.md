@@ -225,7 +225,9 @@ Gource
 -------
 
 More info about [Gource](https://github.com/acaudwell/Gource), 
-including downloads and information about installation.
+including downloads and information about installation. You can 
+also look at the presentation I did about Gource at the
+[FLOSS Community Metrics Meeting](http://www.slideshare.net/geekygirldawn/floss-community-metrics-gource-custom-log-formats)
 
 Using the Gource [custom log format](https://code.google.com/p/gource/wiki/CustomLogFormat)
 option.
