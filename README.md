@@ -9,6 +9,7 @@ By: [Dawn M. Foster](http://fastwonderblog.com). PhD student at the
 * OSCON 2015 - [Session link](http://www.oscon.com/open-source-2015/public/schedule/detail/41617)
 * Slides: [Presentation Material](http://www.slideshare.net/geekygirldawn/network-analysis-people-and-open-source-communities)
 is on SlideShare
+* Video: [Uploaded on YouTube](https://www.youtube.com/watch?v=YoLnV5snX_Q&feature=youtu.be)
 * When: 10:40am–11:20am Thursday, July 23, 2015
 * Room: E147/148 
 * Tags: Linux, Tools and techniques
